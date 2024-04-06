@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adwareapril
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science and physics
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on my startup project
 - 📫 How to reach me: aprildev.adware@gmail.com
